@@ -1,0 +1,14 @@
+D:\CSharpBalta\Fundamentos-POO\Payments\bin\Debug\net9.0\Payments.exe
+D:\CSharpBalta\Fundamentos-POO\Payments\bin\Debug\net9.0\Payments.deps.json
+D:\CSharpBalta\Fundamentos-POO\Payments\bin\Debug\net9.0\Payments.runtimeconfig.json
+D:\CSharpBalta\Fundamentos-POO\Payments\bin\Debug\net9.0\Payments.dll
+D:\CSharpBalta\Fundamentos-POO\Payments\bin\Debug\net9.0\Payments.pdb
+D:\CSharpBalta\Fundamentos-POO\Payments\obj\Debug\net9.0\Payments.GeneratedMSBuildEditorConfig.editorconfig
+D:\CSharpBalta\Fundamentos-POO\Payments\obj\Debug\net9.0\Payments.AssemblyInfoInputs.cache
+D:\CSharpBalta\Fundamentos-POO\Payments\obj\Debug\net9.0\Payments.AssemblyInfo.cs
+D:\CSharpBalta\Fundamentos-POO\Payments\obj\Debug\net9.0\Payments.csproj.CoreCompileInputs.cache
+D:\CSharpBalta\Fundamentos-POO\Payments\obj\Debug\net9.0\Payments.dll
+D:\CSharpBalta\Fundamentos-POO\Payments\obj\Debug\net9.0\refint\Payments.dll
+D:\CSharpBalta\Fundamentos-POO\Payments\obj\Debug\net9.0\Payments.pdb
+D:\CSharpBalta\Fundamentos-POO\Payments\obj\Debug\net9.0\Payments.genruntimeconfig.cache
+D:\CSharpBalta\Fundamentos-POO\Payments\obj\Debug\net9.0\ref\Payments.dll
